@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/klowdy/pokemon_project/BuildConfig.java
+ br.com.klowdy.pokemon_project.BuildConfig
